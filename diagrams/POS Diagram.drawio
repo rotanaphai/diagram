@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
   <diagram name="POS REPO STRUCTURE" id="CtdGuij6LXy3Fm1EJdWT">
-    <mxGraphModel dx="1877" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1127" dy="191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,11 +10,14 @@
         <mxCell id="h7uiS3fmdWrhpwZdUW_i-2" value="&lt;h2&gt;Wing POS: Repository Structures with Microservices&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-800" y="40" width="480" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h7uiS3fmdWrhpwZdUW_i-5" value="&lt;font color=&quot;#212121&quot;&gt;#6759EA&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#6759EA, #6759EA);arcSize=0;gradientColor=none;fillStyle=solid;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="40" width="80" height="40" as="geometry" />
+        <mxCell id="h7uiS3fmdWrhpwZdUW_i-7" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;#E5871A&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E5871A;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="120" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h7uiS3fmdWrhpwZdUW_i-6" value="&lt;span&gt;&lt;font style=&quot;color: light-dark(rgb(237, 237, 237), rgb(255, 255, 255));&quot;&gt;#E5871A&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C73500;fillColor=light-dark(#E5871A, #E5871A);arcSize=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="40" width="80" height="40" as="geometry" />
+        <mxCell id="h7uiS3fmdWrhpwZdUW_i-8" value="&lt;span&gt;&lt;font style=&quot;font-size: 8px; color: light-dark(rgb(209, 209, 209), rgb(255, 255, 255));&quot;&gt;#6759EA&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6759EA;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="80" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h7uiS3fmdWrhpwZdUW_i-9" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;#F2F1F4&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#F2F1F4, #F2F1F4);fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="40" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
