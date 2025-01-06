@@ -10,10 +10,10 @@
         <mxCell id="h7uiS3fmdWrhpwZdUW_i-2" value="&lt;h2&gt;Wing POS: Repository Structures with Microservices&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-800" y="40" width="480" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h7uiS3fmdWrhpwZdUW_i-5" value="&lt;font color=&quot;#212121&quot;&gt;#6759EA&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(default, #6759EA);arcSize=0;gradientColor=none;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="h7uiS3fmdWrhpwZdUW_i-5" value="&lt;font color=&quot;#212121&quot;&gt;#6759EA&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#6759EA, #6759EA);arcSize=0;gradientColor=none;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="-240" y="40" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h7uiS3fmdWrhpwZdUW_i-6" value="&lt;span&gt;&lt;font style=&quot;color: light-dark(rgb(237, 237, 237), rgb(255, 255, 255));&quot;&gt;#E5871A&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C73500;fillColor=light-dark(#fa6800, #e5871a);arcSize=0;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="h7uiS3fmdWrhpwZdUW_i-6" value="&lt;span&gt;&lt;font style=&quot;color: light-dark(rgb(237, 237, 237), rgb(255, 255, 255));&quot;&gt;#E5871A&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C73500;fillColor=light-dark(#E5871A, #E5871A);arcSize=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-120" y="40" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
